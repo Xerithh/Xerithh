@@ -1,10 +1,10 @@
 <div align="center">
 
   # Cléo Garcia
-  ### Digital Health Engineering Student & Full-Stack Developer
+
+  ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F0F6FC&center=true&vCenter=true&width=550&lines=IT+Project+Manager+Apprentice+%40+CHCP;Full-Stack+%26+Cross-Platform+Developer" /><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=1F2328&center=true&vCenter=true&width=550&lines=IT+Project+Manager+Apprentice+%40+CHCP;Full-Stack+%26+Cross-Platform+Developer" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F0F6FC&center=true&vCenter=true&width=550&lines=IT+Project+Manager+Apprentice+%40+CHCP;Full-Stack+%26+Cross-Platform+Developer" alt="Roles" /></picture>
 
   <p>
-    <b>IT Project Manager Apprentice</b> @ Centre Hospitalier Comminges Pyrénées<br/>
     <i>Healthcare Information Systems & Software Engineering Student @ ISIS (INSA Group)</i>
   </p>
 
