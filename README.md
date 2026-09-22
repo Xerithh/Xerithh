@@ -41,10 +41,10 @@ Engineering student specializing in digital healthcare, bridging modern software
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Frontend & Mobile** | TypeScript, React, Next.js, Capacitor, Tailwind CSS |
+| **Frontend & Mobile** | TypeScript, React, Next.js, Tailwind CSS |
 | **Backend & Data** | Node.js, Supabase, PostgreSQL, REST & GraphQL APIs |
-| **DevOps & Architecture** | Docker, Kubernetes, Linux, GitHub Actions |
-| **Design & Workflow** | Figma, Vercel, Jira |
+| **DevOps & Architecture** | Docker, Kubernetes, GitHub Actions |
+| **Design & Workflow** | Figma, Vercel, Trello |
 
 ---
 
