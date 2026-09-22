@@ -1,64 +1,49 @@
-<div align="center">
-  
-  <h1>Hi, I'm Cléo Garcia 👋</h1>
-  
-  <p>
-    <b>Digital Health Engineering Student @ ISIS - INSA Group | IT Project Manager Apprentice @ CHCP</b>
-  </p>
+# Cléo Garcia 👋
 
-  <p>
-    <a href="https://www.linkedin.com/in/cléo-garcia-46b211251" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://cleo-garcia.fr" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="mailto:cleog2762@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+> **Digital Health Engineering Student** @ ISIS (INSA Group)  
+> **IT Project Manager Apprentice** @ Centre Hospitalier Comminges Pyrénées
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl%C3%A9o-garcia-46b211251/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://cleo-garcia.fr)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:cleog2762@gmail.com)
 
 ---
 
 ### 👨‍💻 About Me
 
-Engineering student specializing in digital healthcare, bridging the gap between healthcare IT systems management and software engineering.
+Engineering student specialized in digital healthcare, bridging the gap between healthcare IT systems, clinical software management, and modern full-stack development.
 
-- 🎓 **Education:** Computer Science & Healthcare Systems Engineering at ISIS (INSA Group).
-- 🏥 **Current Role:** IT Project Manager Apprentice at Centre Hospitalier Comminges Pyrénées (clinical software deployment & IT infrastructure).
-- 💡 **Focus:** Modern web applications, PWAs, clean UI/UX design, and scalable TypeScript architectures.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  
-  **Frontend & Mobile**  
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-
-  **Backend & Database**  
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-
-  **Design & Workflow**  
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-</div>
+- 🎓 **Education:** Healthcare Information Systems & Software Engineering at ISIS (INSA Group).
+- 🏥 **Apprenticeship:** IT Project Manager Apprentice at Centre Hospitalier Comminges Pyrénées (clinical software deployment, interoperability, IT infrastructure).
+- 🚀 **Focus:** Modern web apps, PWAs, clean architectures, and high-performance UI/UX.
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack & Ecosystem
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</div>
+**Frontend & Mobile**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend & Data**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Tools & Workflow**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Xerithh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</picture>
